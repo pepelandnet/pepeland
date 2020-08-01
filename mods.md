@@ -38,6 +38,7 @@
 - [Twitch Chat Bridge](https://curseforge.com/minecraft/mc-mods/twitch-chat)
 - [Fabric API](https://curseforge.com/minecraft/mc-mods/fabric-api)
 - Библиотеки, необходимые для работы модов выше
+
 ### Ресурспаки
 - [Vanilla Tweaks](https://vanillatweaks.net/)
 
@@ -51,6 +52,7 @@
 - Better PVP (все версии, запрещено так на самом PepeLand, так и на УХК)
 - MultiConnect 
 - Tweakeroo 
+
 ### Ресурспаки
 - X-ray модификации (любого вида)
 - Чит-модификации (любого вида)
