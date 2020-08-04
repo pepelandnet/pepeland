@@ -41,6 +41,7 @@
 
 ### Ресурспаки
 - [Vanilla Tweaks](https://vanillatweaks.net/)
+- [Stay True](https://curseforge.com/minecraft/texture-packs/stay-true)
 
 ## Под вопросом, лучше не использовать
 - Autofish
