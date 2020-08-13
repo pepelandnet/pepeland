@@ -53,6 +53,7 @@
 - Better PVP (все версии, запрещено как на PepeLand, так и на УХК)
 - MultiConnect 
 - Tweakeroo 
+- Baritone
 
 ### Ресурспаки
 - X-ray модификации (любого вида)
