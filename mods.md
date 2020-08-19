@@ -3,6 +3,7 @@
 ## Разрешено
 
 ### Моды
+
 - [Optifine](https://optifine.net/downloads), [Optifabric](https://curseforge.com/minecraft/mc-mods/optifabric)
 - [MiniHUD](https://curseforge.com/minecraft/mc-mods/minihud)
 - [Inventory Sorting](https://curseforge.com/minecraft/mc-mods/inventory-sorting)
@@ -40,22 +41,32 @@
 - Библиотеки, необходимые для работы модов выше
 
 ### Ресурспаки
+
 - [Vanilla Tweaks](https://vanillatweaks.net/)
 - [Stay True](https://curseforge.com/minecraft/texture-packs/stay-true)
 
 ## Под вопросом, лучше не использовать
+
 - Autofish
 
-## Запрещено
+## Запрещено (как на PepeLand, так и на всех прилежащих серверах)
+
 ### Моды
+
 - X-ray модификации (любого вида)
 - Чит-модификации (любого вида)
-- Better PVP (все версии, запрещено как на PepeLand, так и на УХК)
-- MultiConnect 
-- Tweakeroo 
+- Better PVP (все версии)
+- MultiConnect
+- Tweakeroo
 - Baritone
+- Sigma
+- Aristios
+- FreeCam
+- Wurst
+- Inertia
 
 ### Ресурспаки
+
 - X-ray модификации (любого вида)
 - Чит-модификации (любого вида)
 
