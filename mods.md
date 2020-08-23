@@ -64,6 +64,7 @@
 - FreeCam
 - Wurst
 - Inertia
+- CMDCam
 
 ### Ресурспаки
 
