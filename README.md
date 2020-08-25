@@ -1,4 +1,4 @@
-![PepeLand Logo](https://pepeland.club/assets/media/logo-bg.png)
+![PepeLand Logo](https://pepeland.club/assets/media/logo-bg.png | width=100)
 
 ## Структура
 
