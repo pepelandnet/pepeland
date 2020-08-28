@@ -66,6 +66,9 @@
 - Wurst
 - Inertia
 - CMDCam
+- Jello
+- Impact
+- Aristois
 
 ### Ресурспаки
 
