@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="/assets/media/logo-bg.png">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="https://pepeland.club/assets/media/logo-bg.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
     <title>Запрещенные слова на PepeLand 5</title>
     <style>
     	body {
@@ -29,9 +29,23 @@
     		padding-right: 20px;
     		border-radius: 0px 0px 20px 20px;
     	}
+    	.header > .title {
+    		font-size: 2em;
+    		font-weight: 700;
+    		margin: 10px 0px;
+    	}
+    	.header > .subtitle {
+    		font-size: 1.5em;
+    		margin: 10px 0px;
+    	}
+    	.header > .tip {
+    		font-size: 1.3em;
+			font-weight: 300;
+    	}
     	.container	{
     		margin: auto;
     		max-width: 620px;
+    		margin-bottom: 40px;
     	}
     	.__word {
     		display: inline-block;
@@ -53,14 +67,30 @@
     		padding: 10px;
     		border-radius: 5px;
     	}
+    	.btn {
+    		padding: 10px 15px;
+    		border-radius: 5px;
+    		background: #fff9;
+    		color: #000;
+    		display: inline-block;
+    		text-decoration: none;
+    		transition: .2s;
+    		margin-top: 15px;
+    	}
+    	.btn:hover {
+    		background: #fff;
+    	}
     </style>
 </head>
 <body>
     <div class="header">
     	<img src="https://pepeland.club/assets/media/logo-bg.png" height="64" alt="Логотип PepeLand">
-    	<h1>Запрещенные слова на PepeLand 5</h1>
-    	<h3>Запрещены все вариации этих слов с любой попыткой зацензурить, использовать их на любом языке</h3>
-    	Для отображения, наведите/нажмите на слово
+    	<div class="title">Запрещенные слова на PepeLand 5</div>
+    	<div class="subtitle">Запрещены все вариации этих слов с любой попыткой зацензурить, использовать их на любом языке</div>
+    	<div class="tip">Для отображения, наведите/нажмите на слово</div>
+    	<a class="btn" href="https://pepeland.club">Сервер</a>
+    	<a class="btn" href="https://pepeland.club/rules">Правила</a>
+    	<a class="btn" href="https://pepeland.club/discord">Discord</a>
     </div>
     <div class="container">
     	<div class="word">
