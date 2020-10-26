@@ -69,6 +69,7 @@
 - Jello
 - Impact
 - Aristois
+- Wall-Jump
 
 ### Ресурспаки
 
