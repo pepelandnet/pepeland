@@ -42,8 +42,7 @@
 
 ### Ресурспаки
 
-- [Vanilla Tweaks](https://vanillatweaks.net/)
-- [Stay True](https://curseforge.com/minecraft/texture-packs/stay-true)
+Ресурспаки разрешены все, кроме тех, что указаны в запрещенных
 
 ## Под вопросом, лучше не использовать
 
