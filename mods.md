@@ -70,6 +70,7 @@
 - Impact
 - Aristois
 - Wall-Jump
+- Elytra Swap
 
 ### Ресурспаки
 
