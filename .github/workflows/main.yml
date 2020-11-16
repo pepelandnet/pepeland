@@ -24,17 +24,17 @@ jobs:
         id: rules
         uses: juliangruber/read-file-action@v1
         with:
-          path: ./rules.md
+          path: /rules.md
       - name: Read mods
         id: mods
         uses: juliangruber/read-file-action@v1
         with:
-          path: ./mods.md
+          path: /mods.md
       - name: Read farm_main_allowed
         id: farm_main_allowed
         uses: juliangruber/read-file-action@v1
         with:
-          path: ./farm_main_allowed.md 
+          path: /farm_main_allowed.md 
       - name: Echo package.json
         run: echo 
       - name: Create file
