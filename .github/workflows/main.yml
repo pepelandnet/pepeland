@@ -24,21 +24,21 @@ jobs:
         id: rules
         uses: juliangruber/read-file-action@v1
         with:
-          path: /rules.md
+          path: rules.md
       - name: Read mods
         id: mods
         uses: juliangruber/read-file-action@v1
         with:
-          path: /mods.md
+          path: mods.md
       - name: Read farm_main_allowed
         id: farm_main_allowed
         uses: juliangruber/read-file-action@v1
         with:
-          path: /farm_main_allowed.md 
+          path: farm_main_allowed.md 
       - name: Echo package.json
         run: echo 
       - name: Create file
         uses: "finnp/create-file-action@master"
         env:
-          FILE_NAME: "dir/fileName.json"
+          FILE_NAME: "all.json"
           FILE_DATA: "{\"rules\": \"${ steps.rules.outputs.content }\", \"mods\": \"${ steps.mods.outputs.content }\", \"farm_main_allowed\": \"${ steps.farm_main_allowed.outputs.content }\"}"
