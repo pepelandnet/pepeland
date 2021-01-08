@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Группы",
+    "description": "Вы можете создать ",
+    "commands": [
+       {
+           "command": "/group create <название группы> [пароль для входа]",
+           "description": "Создать группу"
+       },
+       {
+           "command": "/group join <название группы> [пароль для входа]",
+           "description": "Войти в группу"
+       },
+       {
+           "command": "/group leave <название группы>",
+           "description": "Покинуть группу"
+       }
+    ]
+  }
+]
