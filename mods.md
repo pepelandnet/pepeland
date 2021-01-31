@@ -71,6 +71,7 @@
 - Wall-Jump
 - Elytra Swap
 - FindMe
+- Chest Tracker
 
 ### Ресурспаки
 
