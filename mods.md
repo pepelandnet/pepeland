@@ -70,6 +70,7 @@
 - Aristois
 - Wall-Jump
 - Elytra Swap
+- FindMe
 
 ### Ресурспаки
 
