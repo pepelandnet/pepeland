@@ -1,4 +1,4 @@
-![PepeLand Logo](https://i.imgur.com/NMKcBSs.png)
+![PepeLand Logo](https://i.imgur.com/IYOf3nr.png)
 
 ## Структура
 
