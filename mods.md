@@ -70,6 +70,7 @@
 - Elytra Swap
 - FindMe
 - Chest Tracker
+- SeedCracker
 
 ### Ресурспаки
 - X-ray модификации (любого вида)
