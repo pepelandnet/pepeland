@@ -3,7 +3,6 @@
 
 - [Optifine](https://optifine.net/downloads), [Optifabric](https://curseforge.com/minecraft/mc-mods/optifabric)
 - [MiniHUD](https://curseforge.com/minecraft/mc-mods/minihud)
-- [Inventory Sorting](https://curseforge.com/minecraft/mc-mods/inventory-sorting)
 - [VoxelMap](https://curseforge.com/minecraft/mc-mods/voxelmap)
 - [Xaero's World Map](https://curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - [Xaero's Minimap](https://curseforge.com/minecraft/mc-mods/xaeros-minimap)
