@@ -33,6 +33,8 @@
 - [RandomPatches](https://curseforge.com/minecraft/mc-mods/randompatches-fabric)
 - [StepUpNext](https://curseforge.com/minecraft/mc-mods/stepupnext)
 - [Twitch Chat Bridge](https://curseforge.com/minecraft/mc-mods/twitch-chat)
+- [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
 - [Fabric API](https://curseforge.com/minecraft/mc-mods/fabric-api)
 - Библиотеки, необходимые для работы модов выше
 
