@@ -73,6 +73,7 @@
 - FindMe
 - Chest Tracker
 - SeedCracker
+- BedrockIfy
 
 ### Ресурспаки
 - X-ray модификации (любого вида)
