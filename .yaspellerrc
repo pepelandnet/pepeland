@@ -1,7 +1,10 @@
 {
-    "checkYo": true,
     "lang": "ru",
     "format": "auto",
+    "fileExtensions": [
+        ".md",
+        ".mdx"
+    ],
     "ignoreText": [],
     "dictionary": []
 }
