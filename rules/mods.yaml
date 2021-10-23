@@ -1,0 +1,103 @@
+mods: 
+  allowed: 
+    - name: OptiFine
+      link: https://optifine.net/downloads
+    - name: OptiFabric
+      link: https://curseforge.com/minecraft/mc-mods/optifabric
+    - name: MiniHUD
+      link: https://curseforge.com/minecraft/mc-mods/minihud
+    - name: VoxelMap
+      link: https://curseforge.com/minecraft/mc-mods/voxelmap
+    - name: Xaero's World Map
+      link: https://curseforge.com/minecraft/mc-mods/xaeros-world-map
+    - name: Xaero's Minimap
+      link: https://curseforge.com/minecraft/mc-mods/xaeros-minimap
+    - name: Sodium
+      link: https://curseforge.com/minecraft/mc-mods/sodium
+    - name: Badlion Client
+      link: https://client.badlion.net/
+    - name: Item Scroller
+      link: https://curseforge.com/minecraft/mc-mods/item-scroller
+    - name: Litematica
+      link: https://curseforge.com/minecraft/mc-mods/litematica
+    - name: Light Level Overlay
+      link: https://curseforge.com/minecraft/mc-mods/light-overlay
+    - name: ModMenu
+      link: https://curseforge.com/minecraft/mc-mods/modmenu
+    - name: Better Mod Button
+      link: https://curseforge.com/minecraft/mc-mods/better-mod-button
+    - name: Replay Mod
+      link: https://replaymod.com/download/
+    - name: ModUpdater
+      link: https://curseforge.com/minecraft/mc-mods/modupdater
+    - name: Not Enough Crashes
+      link: https://curseforge.com/minecraft/mc-mods/not-enough-crashes
+    - name: Advancements Enlarger
+      link: https://curseforge.com/minecraft/mc-mods/advancements-enlarger
+    - name: Held Item Info
+      link: https://curseforge.com/minecraft/mc-mods/held-item-info
+    - name: Chat Up
+      link: https://curseforge.com/minecraft/mc-mods/chat-up
+    - name: CraftPresence
+      link: https://curseforge.com/minecraft/mc-mods/craftpresence
+    - name: Better Dropped Items
+      link: https://curseforge.com/minecraft/mc-mods/better-dropped-items
+    - name: Blur (Fabric)
+      link: https://curseforge.com/minecraft/mc-mods/blur-fabric
+    - name: Presence Footsteps
+      link: https://curseforge.com/minecraft/mc-mods/presence-footsteps
+    - name: AFKPeace
+      link: https://curseforge.com/minecraft/mc-mods/afkpeace
+    - name: Lithium
+      link: https://curseforge.com/minecraft/mc-mods/lithium
+    - name: Phosphor
+      link: https://curseforge.com/minecraft/mc-mods/phosphor
+    - name: Voyager (modmuss50)
+      link: https://github.com/modmuss50/Voyager/releases/download/1.0.0/voyager-1.0.0.jar
+    - name: LambDynamicLights
+      link: https://curseforge.com/minecraft/mc-mods/lambdynamiclights/files
+    - name: Colormatic
+      link: https://curseforge.com/minecraft/mc-mods/colormatic
+    - name: Logical Zoom
+      link: https://curseforge.com/minecraft/mc-mods/logical-zoom
+    - name: RandomPatches
+      link: https://curseforge.com/minecraft/mc-mods/randompatches-fabric
+    - name: StepUpNext
+      link: https://curseforge.com/minecraft/mc-mods/stepupnext
+    - name: Twitch Chat Bridge
+      link: https://curseforge.com/minecraft/mc-mods/twitch-chat
+    - name: Just Enough Items (JEI)
+      link: https://www.curseforge.com/minecraft/mc-mods/jei
+    - name: Smooth Boot
+      link: https://www.curseforge.com/minecraft/mc-mods/smooth-boot
+    - name: Fabric API
+      link: https://curseforge.com/minecraft/mc-mods/fabric-api
+  prohibited: 
+    - X-ray модификации (любого вида)
+    - Чит-модификации (любого вида)
+    - Авто-тотем модификации (любого вида)
+    - Better PVP (все версии)
+    - MultiConnect
+    - Tweakeroo
+    - Baritone
+    - Sigma
+    - Aristios
+    - FreeCam
+    - Wurst
+    - Inertia
+    - CMDCam
+    - Jello
+    - Impact
+    - Aristois
+    - Wall-Jump
+    - Elytra Swap
+    - FindMe
+    - Chest Tracker
+    - SeedCracker
+    - X-ray модификации (любого вида)
+    - Чит-модификации (любого вида)
+
+resourcepack: 
+  prohibited: 
+    - X-ray модификации (любого вида)
+    - Чит-модификации (любого вида)

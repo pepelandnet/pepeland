@@ -1,0 +1,17 @@
+name: YaSpeller
+
+on:
+  push:
+    branches:
+      - new
+
+jobs:
+  yaspeller:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - name: Проверка правописания в master
+        run: npx yaspeller ".md,.mdx"
