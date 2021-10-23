@@ -13,5 +13,5 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: "14"
-      - name: Проверка правописания в master
-        run: npx yaspeller ".md,.mdx"
+      - name: Проверка правописания
+        run: npx yaspeller-e ".md,.msx"
