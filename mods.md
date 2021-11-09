@@ -60,7 +60,6 @@
 - Tweakeroo
 - Baritone
 - Sigma
-- Aristios
 - FreeCam
 - Wurst
 - Inertia
