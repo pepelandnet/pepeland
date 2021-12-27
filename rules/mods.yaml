@@ -85,7 +85,6 @@ mods:
     - Tweakeroo
     - Baritone
     - Sigma
-    - Aristios
     - FreeCam
     - Wurst
     - Inertia
@@ -98,8 +97,6 @@ mods:
     - FindMe
     - Chest Tracker
     - SeedCracker
-    - X-ray модификации (любого вида)
-    - Чит-модификации (любого вида)
 
 resourcepack:
   prohibited:
