@@ -72,6 +72,10 @@ mods:
       link: https://curseforge.com/minecraft/mc-mods/fabric-api
     - name: Shulker Tooltip
       link: https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip
+    - name: Stendhal
+      link: https://www.curseforge.com/minecraft/mc-mods/stendhal
+    - name: Bobby
+      link: https://www.curseforge.com/minecraft/mc-mods/bobby
   prohibited:
     - X-ray модификации (любого вида)
     - Чит-модификации (любого вида)
