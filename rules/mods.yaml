@@ -52,8 +52,6 @@ mods:
       link: https://curseforge.com/minecraft/mc-mods/lithium
     - name: Phosphor
       link: https://curseforge.com/minecraft/mc-mods/phosphor
-    - name: Voyager (modmuss50)
-      link: https://github.com/modmuss50/Voyager/releases/download/1.0.0/voyager-1.0.0.jar
     - name: LambDynamicLights
       link: https://curseforge.com/minecraft/mc-mods/lambdynamiclights/files
     - name: Colormatic
