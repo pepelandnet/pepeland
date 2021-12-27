@@ -1,0 +1,63 @@
+- name: Чат
+  anchor: chat
+  commands:
+    - name: "Написать личное сообщение"
+      command: "/w <ник> <сообщение>"
+    - name: "Ответить последнему человеку, который написал вам"
+      command: "/r <сообщение>"
+    - name: "Игнорировать игрока"
+      command: "/ignore <ник>"
+    - name: "Перестать игнорировать игрока"
+      command: "/unignore <ник>"
+    - name: "Отправить сообщение в глобальный чат"
+      command: "/g <сообщение>"
+    - name: "Переключение основного канала для общения"
+      command: "/g"
+
+- name: Социальный рейтинг
+  anchor: sc
+  commands:
+    - name: "Проверить количество рейтинга и историю"
+      command: "/sc show"
+    - name: "Проверить количество рейтинга другого игрока"
+      command: "/sc show <ник>"
+
+- name: Смайлы
+  anchor: emotes
+  commands:
+    - name: "Список смайлов"
+      command: "/emoji"
+    - name: "Отправить смайл"
+      command: "/emoji <смайл из автозаполнения>"
+    - name: "Использовать смайл"
+      command: ":смайл:"
+      info: "Можно использовать в любом месте в сообщении и на табличках"
+
+- name: Item Edit
+  anchor: ie
+  guide:
+    text: Обязательно прочитайте гайд перед использованием команд
+    route: "/wiki/guide/itemedit"
+  commands:
+    - name: "Переименовать предмет"
+      command: "/ie rename <текст>"
+    - name: "Добавить строку к лору"
+      command: "/ie lore add <текст>"
+    - name: "Задать текст для строки"
+      command: "/ie lore set <номер строки> <текст>"
+      info: "Не указывайте более 10 строк — сервер будет кикать вас"
+    - name: "Удалить строку"
+      command: "/ie lore remove <номер строки>"
+    - name: "Очистка лора предмета"
+      command: "/ie lore reset"
+
+- name: Прочее
+  anchor: miscellaneous
+  commands:
+    - name: "Узнать, в каком мире игрок"
+      command: "/find <ник>"
+    - name: "Координаты над хотбаром"
+      command: "/trigger ch_toggle"
+    - name: "Сделать рамку прозрачной"
+      command: "/trigger if_invisible"
+      info: "В рамке должен быть предмет"

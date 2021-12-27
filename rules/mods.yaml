@@ -1,5 +1,5 @@
-mods: 
-  allowed: 
+mods:
+  allowed:
     - name: OptiFine
       link: https://optifine.net/downloads
     - name: OptiFabric
@@ -72,7 +72,9 @@ mods:
       link: https://www.curseforge.com/minecraft/mc-mods/smooth-boot
     - name: Fabric API
       link: https://curseforge.com/minecraft/mc-mods/fabric-api
-  prohibited: 
+    - name: Shulker Tooltip
+      link: https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip
+  prohibited:
     - X-ray модификации (любого вида)
     - Чит-модификации (любого вида)
     - Авто-тотем модификации (любого вида)
@@ -97,7 +99,7 @@ mods:
     - X-ray модификации (любого вида)
     - Чит-модификации (любого вида)
 
-resourcepack: 
-  prohibited: 
+resourcepack:
+  prohibited:
     - X-ray модификации (любого вида)
     - Чит-модификации (любого вида)

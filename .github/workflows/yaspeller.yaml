@@ -1,0 +1,18 @@
+name: YaSpeller
+
+on:
+  push:
+    branches:
+      # TODO: Change to main branch
+      - new
+
+jobs:
+  yaspeller:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16.x"
+      - name: Проверка правописания
+        run: npx yaspeller .
