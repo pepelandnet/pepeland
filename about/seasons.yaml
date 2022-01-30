@@ -55,6 +55,7 @@
   online:
     max: 75
     limit: 1337
+  watch: "https://youtube.com/playlist?list=PLPM4dhYL0jHQs2d-tkcmQVYOMqbY9EJM9"
   download:
     - name: Мир построек
       link: "https://storage.suomi.rpepeland.club/ppl5/main.min.rar"
