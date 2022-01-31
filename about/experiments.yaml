@@ -6,7 +6,7 @@
   online:
     max: 50
     limit: 100
-  download: https://yadi.sk/d/zh7Vc7_svt5akA
+  save: https://yadi.sk/d/zh7Vc7_svt5akA
   watch: https://youtube.com/playlist?list=PLPM4dhYL0jHTjhGuJp1iRyIRrih6h11LO
   description: >
     Сервер с размером мира 512×512 блоков.
@@ -23,7 +23,7 @@
   online:
     max: 75
     limit: 100
-  download: https://storage.suomi.rpepeland.club/saves/experiments/2021/500.tar.gz
+  save: https://storage.suomi.rpepeland.club/saves/experiments/2021/500.tar.gz
   description: >
     Сервер перед новым, шестым сезоном PepeLand.
     
@@ -42,6 +42,6 @@
   online:
     max: 40
     limit: 100
-  download: false
+  save: false
   description: >
     WIP
