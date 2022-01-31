@@ -1,6 +1,7 @@
 - name: "PepeLand"
   version: 1.12.2
-  date: 19 мая 2018
+  date: 
+    start: 19 May 2018
   online:
     max: 7
     limit: 10
@@ -12,7 +13,8 @@
 
 - name: "PepeLand 2"
   version: 1.13.2
-  date: 27 января 2019
+  date: 
+    start: 27 Jan 2019
   online:
     max: 15
     limit: 40
@@ -24,7 +26,8 @@
 
 - name: "PepeLand 3"
   version: 1.14.4
-  date: 13 июля 2019
+  date: 
+    start: 13 Jul 2019
   online:
     max: 15
     limit: 30
@@ -44,7 +47,8 @@
 
 - name: "PepeLand 4"
   version: 1.15.2
-  date: 7 января 2020
+  date: 
+    start: 7 Jan 2020
   online:
     max: 20
     limit: 40
@@ -57,7 +61,8 @@
 
 - name: "PepeLand 5"
   version: 1.16.5
-  date: 20 июля 2020
+  date: 
+    start: 20 Jul 2020
   online:
     max: 75
     limit: 1337
@@ -88,8 +93,8 @@
 
 - name: "PepeLand 6"
   version: 1.17.1
-  date: 18 августа 2021
-  current: true
+  date: 
+    start: 18 Aug 2021
   online:
     max: 250
     limit: 1000
