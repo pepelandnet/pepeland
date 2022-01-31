@@ -2,6 +2,7 @@
   version: 1.12.2
   date: 
     start: 19 May 2018
+    end: 5 Jun 2018
   online:
     max: 7
     limit: 10
@@ -15,6 +16,7 @@
   version: 1.13.2
   date: 
     start: 27 Jan 2019
+    end: 27 Mar 2019
   online:
     max: 15
     limit: 40
@@ -28,6 +30,7 @@
   version: 1.14.4
   date: 
     start: 13 Jul 2019
+    end: 3 Jan 2020
   online:
     max: 15
     limit: 30
@@ -49,6 +52,7 @@
   version: 1.15.2
   date: 
     start: 7 Jan 2020
+    end: 26 Jun 2020
   online:
     max: 20
     limit: 40
@@ -63,6 +67,7 @@
   version: 1.16.5
   date: 
     start: 20 Jul 2020
+    end: 4 Jul 2020
   online:
     max: 75
     limit: 1337
