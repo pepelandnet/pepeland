@@ -3,6 +3,9 @@
   date: 
     start: 28 Feb 2021
     end: 4 Jul 2021
+  online:
+    max: 50
+    limit: 100
   download: https://yadi.sk/d/zh7Vc7_svt5akA
   watch: https://youtube.com/playlist?list=PLPM4dhYL0jHTjhGuJp1iRyIRrih6h11LO
   description: >
@@ -17,6 +20,9 @@
   date: 
     start: 5 Jul 2021
     end: 1 Jan 1970
+  online:
+    max: 75
+    limit: 100
   download: https://storage.suomi.rpepeland.club/saves/experiments/2021/500.tar.gz
   description: >
     Сервер перед новым, шестым сезоном PepeLand.
@@ -33,6 +39,9 @@
   date: 
     start: 12 Jul 2021
     end: 1 Jan 1970
+  online:
+    max: 40
+    limit: 100
   download: false
   description: >
     WIP
