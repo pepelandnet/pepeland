@@ -1,5 +1,8 @@
 - name: Эксперимент 512
-  version: "1.16.4"
+  version: 1.16.4
+  date: 
+    start: 28 Feb 2021
+    end: 4 Jul 2021
   download: https://yadi.sk/d/zh7Vc7_svt5akA
   watch: https://youtube.com/playlist?list=PLPM4dhYL0jHTjhGuJp1iRyIRrih6h11LO
   description: >
@@ -10,9 +13,11 @@
     Экспериментальный сервер был доступен всем игрокам PepeLand, а также тем, кто приобрёл доступ с помощью баллов на Twitch канале Пугода.
     
 - name: Эксперимент 500
-  version: "1.17"
+  version: 1.17.1
+  date: 
+    start: 5 Jul 2021
+    end: 1 Jan 1970
   download: https://storage.suomi.rpepeland.club/saves/experiments/2021/500.tar.gz
-  watch: https://youtube.com/playlist?list=PLPM4dhYL0jHTjhGuJp1iRyIRrih6h11LO
   description: >
     Сервер перед новым, шестым сезоном PepeLand.
     
@@ -21,4 +26,13 @@
     Социальный рейтинг, кастомная генерация и новый чат в последствии были добавлены на новый сезон.
     Система репортов была изменена и до сих пор дорабатывается, а валюта с помощью плагина не была добавлена на новый сезон.
     
-    Экспериментальный сервер был доступен всем игрокам PepeLand, а также тем, кто приобрёл доступ с помощью баллов на Twitch канале Пугода.
+    Экспериментальный сервер был доступен всем игрокам PepeLand 5, а также тем, кто приобрёл доступ с помощью баллов на Twitch канале Пугода.
+
+- name: Эксперимент 13
+  version: 1.17.1
+  date: 
+    start: 12 Jul 2021
+    end: 1 Jan 1970
+  download: false
+  description: >
+    WIP
