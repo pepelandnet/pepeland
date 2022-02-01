@@ -65,17 +65,17 @@ mods:
     - name: Twitch Chat Bridge
       link: https://curseforge.com/minecraft/mc-mods/twitch-chat
     - name: Just Enough Items (JEI)
-      link: https://www.curseforge.com/minecraft/mc-mods/jei
+      link: https://curseforge.com/minecraft/mc-mods/jei
     - name: Smooth Boot
-      link: https://www.curseforge.com/minecraft/mc-mods/smooth-boot
+      link: https://curseforge.com/minecraft/mc-mods/smooth-boot
     - name: Fabric API
       link: https://curseforge.com/minecraft/mc-mods/fabric-api
     - name: Shulker Tooltip
-      link: https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip
+      link: https://curseforge.com/minecraft/mc-mods/shulker-tooltip
     - name: Stendhal
-      link: https://www.curseforge.com/minecraft/mc-mods/stendhal
+      link: https://curseforge.com/minecraft/mc-mods/stendhal
     - name: Bobby
-      link: https://www.curseforge.com/minecraft/mc-mods/bobby
+      link: https://curseforge.com/minecraft/mc-mods/bobby
   prohibited:
     - X-ray модификации (любого вида)
     - Чит-модификации (любого вида)
