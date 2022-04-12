@@ -73,6 +73,7 @@
 - FindMe
 - Chest Tracker
 - SeedCracker
+- BetterClicker
 
 ### Ресурспаки
 - X-ray модификации (любого вида)
