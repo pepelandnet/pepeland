@@ -76,6 +76,9 @@ mods:
       link: https://curseforge.com/minecraft/mc-mods/stendhal
     - name: Bobby
       link: https://curseforge.com/minecraft/mc-mods/bobby
+    - name: Inventory HUD+
+      link: https://curseforge.com/minecraft/mc-mods/inventory-hud-forge
+
   prohibited:
     - X-ray модификации (любого вида)
     - Чит-модификации (любого вида)
