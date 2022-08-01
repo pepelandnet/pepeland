@@ -37,6 +37,7 @@
 - [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
 - [Fabric API](https://curseforge.com/minecraft/mc-mods/fabric-api)
 - [Shulker Tooltip](https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip)
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 - Библиотеки, необходимые для работы модов выше
 
 ### Ресурспаки
